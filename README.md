@@ -4,7 +4,7 @@
 
 ### NOW
 - 🧾 Modernization of the legacy of a banking receipts system, with over 22 millions calls per day.
-- 🇧🇷 Writing a blog post (in brazilian portuguese language) about changing the commit messages after push in order to increase your codebase integrity
+- 🇧🇷 Writing a blog post (in brazilian portuguese language) about changing the commit messages after push in order to increase your codebase integrity and intelligibility
 
 ### BIO
 - 🏦 I'm currently working at [Itau](https://www.itau.com/) (the largest private sector bank in Brazil).
