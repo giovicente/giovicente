@@ -8,7 +8,7 @@
 
 ### BIO
 - 🏦 I'm currently working at [Itau](https://www.itau.com/) (the largest private sector bank in Brazil).
-- 👨‍🏫 Teaching Java Basics at [Let's Code](https://letscode.com.br/) (a great programming school located in Sao Paulo).
+- 👨‍🏫 Assistant Teacher at [Let's Code](https://letscode.com.br/) (a great programming school located in Sao Paulo).
 - ⚙️ I started my carrer developing mainframe / COBOL systems and now I also work with Cloud / Java development.
 - 🌱 Currently Learning: Advanced REST API Design, Clean Code / SOLID principles and AWS.
 - 💬 Ping me about REST API Design, Object-Oriented Paradigm Solutions and (why not?) Mainframe and COBOL development.
