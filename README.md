@@ -12,5 +12,5 @@
 - ⚙️ I started my carrer developing mainframe / COBOL systems and now I also work with Cloud / Java development.
 - 🌱 Currently Learning: Advanced REST API Design, Clean Code / SOLID principles and AWS.
 - 💬 Ping me about REST API Design, Object-Oriented Paradigm Solutions and (why not?) Mainframe and COBOL development.
-- 📫 Reach me: twitter.com/giovicente.
+- 📫 Reach me: https://www.linkedin.com/in/giovanni-vicente-gentile-da-silva-46b63145/.
 - 🤪 Fun facts: I'm a PSN trophy hunter 🏆 and assiduous reader 📚.
