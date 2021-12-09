@@ -3,7 +3,7 @@
 **I'm a Software Engineer and Teacher working in Sao Paulo, Brazil.**
 
 ### NOW
-- 💲 Member of instant payments accounting development team
+- 💲 Technical Leader of instant payments accounting development team
 - 🇧🇷 Writing a blog post (in brazilian portuguese language) about IT certifications
 ### BIO
 - 🏦 I'm currently working at [Itau](https://www.itau.com/) (one of the largest private sector banks in Brazil).
