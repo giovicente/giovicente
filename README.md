@@ -6,7 +6,7 @@
 - 💲 Technical Leader of instant payments accounting development team
 - 🇧🇷 Writing a blog post (in brazilian portuguese language) about IT certifications
 ### BIO
-- 🏦 I'm currently working at [Itau](https://www.itau.com/) (one of the largest private sector banks in Brazil).
+- 🏦 I'm currently working at [Itau](https://www.itau.com/) (one of the largests private sector banks in Brazil).
 - 👨‍🏫 Teaching Java basics at [Let's Code](https://letscode.com.br/) (a great programming school located in Sao Paulo).
 - ⚙️ I started my carrer developing mainframe / COBOL systems and now I also work with Cloud / Java / Kotlin development.
 - 🌱 Currently Learning: Advanced REST API Design, Clean Code / SOLID principles and AWS.
