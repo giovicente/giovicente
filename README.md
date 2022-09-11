@@ -10,6 +10,6 @@
 - 👨‍🏫 Teaching Java basics at [Let's Code by Ada](https://letscode.com.br/) (a great programming school located in Sao Paulo).
 - ⚙️ I started my carrer developing mainframe / COBOL systems and now I also work with Cloud / Java / Kotlin development.
 - 🌱 Currently Learning: Amazon Web Services and Advanced Java Topics.
-- 💬 Ping me about: REST API Design, Object-Oriented Paradigm Solutions and (why not?) Mainframe and COBOL development.
+- 💬 Ping me about: Leadership, REST API Design, Object-Oriented Paradigm Solutions and (why not?) Mainframe and COBOL development.
 - 📫 Reach me: https://www.linkedin.com/in/giovanni-vicente-gentile-da-silva-46b63145/.
 - 🤪 Fun facts: I'm a PSN trophy hunter 🏆 and assiduous reader 📚.
