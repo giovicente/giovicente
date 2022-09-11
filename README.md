@@ -3,11 +3,11 @@
 **I'm a Software Engineer and Teacher working in Sao Paulo, Brazil.**
 
 ### NOW
-- 💲 Technical Leader of instant payments accounting development team
+- 🤝 Chapter Leader of Software Engineering discipline, working on the evolution of the receivables platform at Itaú Bank
 - 🇧🇷 Writing a blog post (in brazilian portuguese language) about IT certifications
 ### BIO
-- 🏦 I'm currently working at [Itau](https://www.itau.com/) (the largest private sector bank in Brazil).
-- 👨‍🏫 Teaching Java basics at [Let's Code](https://letscode.com.br/) (a great programming school located in Sao Paulo).
+- 🏦 I'm currently working at [Itaú](https://www.itau.com/) (the largest private sector bank in Brazil).
+- 👨‍🏫 Teaching Java basics at [Let's Code by Ada](https://letscode.com.br/) (a great programming school located in Sao Paulo).
 - ⚙️ I started my carrer developing mainframe / COBOL systems and now I also work with Cloud / Java / Kotlin development.
 - 🌱 Currently Learning: Amazon Web Services and Advanced Java Topics.
 - 💬 Ping me about: REST API Design, Object-Oriented Paradigm Solutions and (why not?) Mainframe and COBOL development.
