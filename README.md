@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hello there 👋
 
 **I'm a Software Engineer and Teacher working in Sao Paulo, Brazil.**
 
