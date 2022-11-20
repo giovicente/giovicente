@@ -3,7 +3,7 @@
 **I'm a Software Engineer and Teacher working in Sao Paulo, Brazil.**
 
 ### NOW
-- 🤝 Chapter Leader of Software Engineering discipline, working on the evolution of the receivables platform at Itaú Bank
+- 🏃⬅️🏃🏃🏃 Chapter Leader of Software Engineering discipline, working on the evolution of the receivables platform at Itaú Bank
 - 🇧🇷 Writing a blog post (in brazilian portuguese language) about IT certifications
 ### BIO
 - 🏦 I'm currently working at [Itaú](https://www.itau.com/) (the largest private sector bank in Brazil).
