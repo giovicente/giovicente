@@ -1,6 +1,6 @@
 # Hello there 👋
 
-**I'm a Software Engineer and Teacher working in Sao Paulo, Brazil.**
+**I'm a Software Engineer and Teacher, living and working in Sao Paulo, Brazil.**
 
 ### NOW
 - 🏃⬅️🏃🏃🏃 Chapter Leader of Software Engineering discipline, working on the evolution of the receivables platform at Itaú Bank
