@@ -4,12 +4,12 @@
 
 ### NOW
 - 🏃⬅️🏃🏃🏃 Chapter Leader of Software Engineering discipline, working on the evolution of the receivables platform at Itaú Bank
-- 🇧🇷 Writing a blog post (in brazilian portuguese language) about IT certifications
+- 🇧🇷 Writing a technical or leadership article on LinkedIn monthly (typically in Portuguese).
 ### BIO
 - 🏦 I'm currently working at [Itaú](https://www.itau.com/) (the largest private sector bank in Brazil).
 - 👨‍🏫 Former Java teacher at [Ada](https://ada.tech/) (a great programming school located in Sao Paulo).
-- ⚙️ I started my carrer developing mainframe / COBOL systems and now I also work with Cloud / Java / Kotlin development.
+- ⚙️ I started my carrer developing mainframe / COBOL systems and now I also work with Cloud / Java / Python development.
 - 🌱 Currently Learning: Amazon Web Services and Advanced Java Topics.
 - 💬 Ping me about: Leadership, REST API Design, Object-Oriented Paradigm Solutions and (why not?) Mainframe and COBOL development.
 - 📫 Reach me: https://www.linkedin.com/in/giovanni-vicente-gentile-da-silva-46b63145/.
-- 🤪 Fun facts: I'm a PSN trophy hunter 🏆 and assiduous reader 📚.
+- 🤪 Fun facts: I'm a PSN trophy hunter 🏆, assiduous reader 📚 and a bass player 🎸.
