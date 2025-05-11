@@ -10,7 +10,7 @@
 - 🏦 Currently at <a href="https://www.itau.com/" target="_blank" rel="noopener noreferrer">Itaú</a>, the largest private-sector bank in Brazil.
 - 👨‍🏫 Former Java instructor at <a href="https://ada.tech/" target="_blank" rel="noopener noreferrer">Ada</a>, an excellent programming school based in São Paulo.
 - ⚙️ Started my career building mainframe/COBOL systems, and now also work with Cloud, Java, and Python development.  
-- 🌱 Currently learning: Amazon Web Services, Enterprise Application Architecture Patterns, and how to boost productivity with the GTD method.  
+- 🌱 Currently learning: AWS Soluctions Architecture, Multi-Module Maven projects, and how to boost productivity with the GTD method.  
 - 💬 Feel free to reach out to chat about: Leadership, REST API Design, Object-Oriented Programming, and (why not?) Mainframe and COBOL development.  
 - 📫 Connect with me: <a href="https://www.linkedin.com/in/giovanni-vicente-gentile-da-silva-46b63145/" target="_blank" rel="noopener noreferrer">LinkedIn</a>.  
 - 🤪 Fun facts: I'm a PSN trophy hunter 🏆, retro game collector 🎮, avid reader 📚, and a bass player 🎸.
