@@ -1,6 +1,6 @@
 # Hello there! <img src="https://github.com/user-attachments/assets/850135f9-4180-4d60-a659-4b8295c7f7df" alt="ben kenobi icon" style="position: relative; top: 2px;" width="20" />
 
-**I'm a Software Engineer and Teacher based in São Paulo, Brazil.**
+**I'm a Software Engineer, Engineering Leader and Teacher based in São Paulo, Brazil.**
 
 **I strongly believe in the culture of Katas, and that deliberate practice combined with the right dose of theory (whether in the industry or in personal projects) is the path to becoming the best version of ourselves.**
 
