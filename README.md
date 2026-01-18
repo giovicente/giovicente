@@ -10,8 +10,8 @@
 - 🚀🌐 About to launch a website with Katas for Engineering Management.
 
 ### BIO
-- 🏦 Former Chapter Leader at <a href="https://www.itau.com/" target="_blank" rel="noopener noreferrer">Itaú</a>, the largest private-sector bank in Brazil. Throughout my 11 years at the company, I led key deliveries in the Payments and Cash Management platforms, including the launch of instant payments in Brazil (Pix), and contributed to the Cash platform that was recognized 14 times as the best in Brazil, 6 times as the best in Latin America, and once as the best in the world (Euromoney survey).
-- 👨‍🏫 Former Java instructor at <a href="https://ada.tech/" target="_blank" rel="noopener noreferrer">Ada</a>, an excellent programming school based in São Paulo.
+- 🏦 2014 - 2025: From JR Developer to Chapter Leader at <a href="https://www.itau.com/" target="_blank" rel="noopener noreferrer">Itaú</a>, the largest private-sector bank in Brazil. Throughout my 11 years at the company, I led key deliveries in the Payments and Cash Management platforms, including the launch of instant payments in Brazil (Pix), where I have been focused on the payment proof and auditability flow. I also contributed to the Cash Management platform that was recognized 14 times as the best in Brazil, 6 times as the best in Latin America, and once as the best in the world (Euromoney survey).
+- 👨‍🏫 2021 - 2023: SR Java instructor at <a href="https://ada.tech/" target="_blank" rel="noopener noreferrer">Ada</a>, an excellent programming school based in São Paulo.
 - ⚙️ Started my career building mainframe/COBOL systems, and now also work with Cloud, Java, Go and Python development.  
 - 🌱 Currently learning: Go Programming Language
 - 💬 Feel free to reach out to chat about: Leadership, REST API Design, Object-Oriented Programming, and (why not?) Mainframe and COBOL development.  
